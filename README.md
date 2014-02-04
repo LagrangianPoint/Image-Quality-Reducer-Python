@@ -13,8 +13,9 @@ This was thought for Windows usage mostly, although I think it can also work on 
 
 ## Usage
 
-- Select a group of images to reduce their quality.
-- Select what quality you want the images to have (from 0 - 100) with 100 being high quality, and 0 being very poor quality. Then press Enter.
+1. Select a group of images to reduce their quality.
+2. Move the selected files over the file **img-reduce-quality.py** .
+3. Select what quality you want the images to have (from 0 - 100) with 100 being high quality, and 0 being very poor quality. Then press Enter.
 
 ## Limitations
 
